@@ -1,6 +1,6 @@
 # Traktor-Game
 
-A Farming Game
+Farming Simulator
 
 <img src = "Traktor/Assets/Images/BackgroundImg.png" width = "400px">
 
