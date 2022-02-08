@@ -12,3 +12,7 @@ Steuerung:
   Traktor fahren: WASD
   
   Anhänger abkuppeln: Q
+  
+  
+  
+  TraktorSetup.exe herunterladen um zu Spielen
