@@ -15,4 +15,4 @@ Steuerung:
   
   
   
-  TraktorSetup.exe herunterladen um zu Spielen
+ [TraktorSetup.exe](https://github.com/Maxwex/Traktor-Game/raw/main/TraktorSetup.exe) herunterladen um zu Spielen
